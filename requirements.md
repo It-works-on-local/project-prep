@@ -38,3 +38,6 @@
 - User can play and pause music. 
 - User will have access to cheatsheet. 
 - User can come back to their same game.
+
+![Wireframe](img/WireFrame.jpeg)
+![Domain Model](img/Domain.jpeg)
